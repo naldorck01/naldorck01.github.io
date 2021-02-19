@@ -1,0 +1,24 @@
+{
+  "name": "naldorck01.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naldorck01/naldorck01.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naldorck01/naldorck01.github.io/issues"
+  },
+  "homepage": "https://github.com/naldorck01/naldorck01.github.io#readme",
+  "dependencies": {}
+}
